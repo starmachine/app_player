@@ -1,0 +1,240 @@
+[
+  {
+    "title": "Story App",
+    "authors": [
+      "@devefy"
+    ],
+    "pages": [
+      "https://github.com/devefy/Flutter-Story-App-UI",
+      "https://www.youtube.com/watch?v=5KbiU-93-yU"
+    ],
+    "source": "https://dartpad.dartlang.org/a414673a692379f2528fced6dbe7e748",
+    "icon": {
+      "source": "https://gist.githubusercontent.com/starmachine/a414673a692379f2528fced6dbe7e748/raw/e68adbdbf3793df670f418c4eb0b6e8df462d817/zzz-thumb-360.png",
+      "alignment": [
+        0.0,
+        -0.5
+      ]
+    },
+    "thumbnails": [
+      {
+        "source": "https://gist.githubusercontent.com/starmachine/a414673a692379f2528fced6dbe7e748/raw/e68adbdbf3793df670f418c4eb0b6e8df462d817/zzz-thumb-360.png",
+        "size": [
+          360,
+          640
+        ]
+      }
+    ],
+    "environment": {
+      "player": ">=1.0.0"
+    }
+  },
+  {
+    "title": "Gooey Edge",
+    "authors": [
+      "@gskinner"
+    ],
+    "pages": [
+      "https://codepen.io/team/codepen/pen/mdeVWjp"
+    ],
+    "source": "https://dartpad.dev/f43971dc331b83f1bcf20d9b3aa09864",
+    "icon": {
+      "source": "https://gist.githubusercontent.com/starmachine/f43971dc331b83f1bcf20d9b3aa09864/raw/fd65d099f65f930129f3a387c12c50b75466425c/zzz-thumb-360.png",
+      "alignment": [
+        0.0,
+        -0.5
+      ]
+    },
+    "thumbnails": [
+      {
+        "source": "https://gist.githubusercontent.com/starmachine/f43971dc331b83f1bcf20d9b3aa09864/raw/fd65d099f65f930129f3a387c12c50b75466425c/zzz-thumb-360.png",
+        "size": [
+          360,
+          640
+        ]
+      }
+    ],
+    "environment": {
+      "player": ">=1.0.0"
+    }
+  },
+  {
+    "title": "Shoe Store",
+    "authors": [
+      "@diegoveloper"
+    ],
+    "pages": [
+      "https://codepen.io/team/codepen/pen/QWjypxY"
+    ],
+    "source": "https://dartpad.cn/b276c5612c98d31884a7cbdf7e141d53?dummy",
+    "icon": {
+      "source": "https://gist.githubusercontent.com/starmachine/b276c5612c98d31884a7cbdf7e141d53/raw/696d287d40e4cabd81a15824ca79d98bd620b130/zzz-thumb-360.png",
+      "alignment": [
+        0.0,
+        -0.85
+      ]
+    },
+    "thumbnails": [
+      {
+        "source": "https://gist.githubusercontent.com/starmachine/b276c5612c98d31884a7cbdf7e141d53/raw/696d287d40e4cabd81a15824ca79d98bd620b130/zzz-thumb-360.png",
+        "size": [
+          360,
+          640
+        ]
+      }
+    ],
+    "environment": {
+      "player": ">=1.0.0"
+    }
+  },
+  {
+    "title": "Bubble Animation",
+    "authors": [],
+    "pages": [
+      "https://codepen.io/team/codepen/pen/gOpYPOe"
+    ],
+    "source": "https://gist.github.com/starmachine/56c9a79e826208b5315ea4fa06e034c0/",
+    "icon": {
+      "source": "https://gist.githubusercontent.com/starmachine/56c9a79e826208b5315ea4fa06e034c0/raw/13bdad7d5d76dde33ac1be2bb6125c62ff5f6e63/zzz-thumb-360.png",
+      "alignment": [
+        0.0,
+        0.0
+      ]
+    },
+    "thumbnails": [
+      {
+        "source": "https://gist.githubusercontent.com/starmachine/56c9a79e826208b5315ea4fa06e034c0/raw/13bdad7d5d76dde33ac1be2bb6125c62ff5f6e63/zzz-thumb-360.png",
+        "size": [
+          360,
+          640
+        ]
+      }
+    ],
+    "environment": {
+      "player": ">=1.0.0"
+    }
+  },
+  {
+    "title": "Tic-Tac-Toe",
+    "authors": [
+      "@divyanshub024"
+    ],
+    "pages": [
+      "https://codepen.io/team/codepen/pen/wvKMJXE"
+    ],
+    "source": "https://gist.github.com/8c648fcbe2f0ee3610783bbad2f9fcd9#file-tic_tac_toe-dart",
+    "icon": {
+      "source": "https://gist.githubusercontent.com/starmachine/8c648fcbe2f0ee3610783bbad2f9fcd9/raw/712d2b2507be396bcd88c75e32558b936f9ef48a/zzz-thumb-360.png",
+      "alignment": [
+        0.0,
+        -1.0
+      ]
+    },
+    "thumbnails": [
+      {
+        "source": "https://gist.githubusercontent.com/starmachine/8c648fcbe2f0ee3610783bbad2f9fcd9/raw/712d2b2507be396bcd88c75e32558b936f9ef48a/zzz-thumb-360.png",
+        "size": [
+          360,
+          640
+        ]
+      }
+    ],
+    "environment": {
+      "player": ">=1.0.0"
+    }
+  },
+  {
+    "title": "Paris Travel Hero",
+    "authors": [
+      "@gskinner"
+    ],
+    "pages": [
+      "https://codepen.io/team/codepen/pen/abvdJjN"
+    ],
+    "source": "https://gist.githubusercontent.com/starmachine/01059233c1b3b77aace5c7c8f85e9622/raw/7ce72eaaf0ceb6af810cc980d0e3ee6718304395/paris.dart",
+    "icon": {
+      "source": "https://gist.githubusercontent.com/starmachine/01059233c1b3b77aace5c7c8f85e9622/raw/7ce72eaaf0ceb6af810cc980d0e3ee6718304395/zzz-thumb-360.png",
+      "alignment": [
+        0.0,
+        0.2
+      ]
+    },
+    "thumbnails": [
+      {
+        "source": "https://gist.githubusercontent.com/starmachine/01059233c1b3b77aace5c7c8f85e9622/raw/7ce72eaaf0ceb6af810cc980d0e3ee6718304395/zzz-thumb-360.png",
+        "size": [
+          360,
+          640
+        ]
+      }
+    ],
+    "environment": {
+      "player": ">=1.0.0"
+    }
+  },
+  {
+    "title": "Neumorphic Clock",
+    "authors": [
+      "@orestesgaolin"
+    ],
+    "pages": [
+      "https://codepen.io/team/codepen/pen/VwvepBW"
+    ],
+    "source": "https://codepen.io/team/codepen/pen/VwvepBW",
+    "icon": {
+      "source": "https://gist.githubusercontent.com/starmachine/dce0b6df2198b7b4e9b14edd57d06ac9/raw/261744d8b601f1f2c6e2a0d7239f40ace757f2fe/zzz-thumb-360.png",
+      "alignment": [
+        0.0,
+        -0.25
+      ]
+    },
+    "thumbnails": [
+      {
+        "source": "https://gist.githubusercontent.com/starmachine/dce0b6df2198b7b4e9b14edd57d06ac9/raw/261744d8b601f1f2c6e2a0d7239f40ace757f2fe/zzz-thumb-360.png",
+        "size": [
+          360,
+          640
+        ]
+      }
+    ],
+    "environment": {
+      "player": ">=1.0.0"
+    }
+  },
+  {
+    "title": "Clock of Clocks",
+    "authors": [
+      "@egorbelibov"
+    ],
+    "pages": [
+      "https://codepen.io/team/codepen/pen/yLYeMEd"
+    ],
+    "source": "dartpad.dev/95a5159554cf518742c6e9282a9f1811",
+    "icon": {
+      "source": "https://gist.githubusercontent.com/starmachine/95a5159554cf518742c6e9282a9f1811/raw/e1b192a36d1e8e5e30b8bd4cf31e3c16d4152156/zzz-thumb-2-360.png",
+      "alignment": [
+        0.0,
+        0.0
+      ]
+    },
+    "thumbnails": [
+      {
+        "source": "https://gist.githubusercontent.com/starmachine/95a5159554cf518742c6e9282a9f1811/raw/e1b192a36d1e8e5e30b8bd4cf31e3c16d4152156/zzz-thumb-1-360.png",
+        "size": [
+          360,
+          640
+        ]
+      },
+      {
+        "source": "https://gist.githubusercontent.com/starmachine/95a5159554cf518742c6e9282a9f1811/raw/e1b192a36d1e8e5e30b8bd4cf31e3c16d4152156/zzz-thumb-2-360.png",
+        "size": [
+          360,
+          640
+        ]
+      }
+    ],
+    "environment": {
+      "player": ">=1.0.0"
+    }
+  }
+]
