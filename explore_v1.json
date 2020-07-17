@@ -1,5 +1,34 @@
 [
   {
+    "title": "Nike Shop",
+    "authors": [
+      "@joshuadeguzman"
+    ],
+    "pages": [
+      "https://codepen.io/joshuadeguzman/pen/jObrzJB"
+    ],
+    "source": "https://gist.github.com/starmachine/eb2b5b23eaa9a7c1d8256a8a6da938c9",
+    "icon": {
+      "source": "https://gist.githubusercontent.com/starmachine/eb2b5b23eaa9a7c1d8256a8a6da938c9/raw/335f50c353793d32f98166b803ae05127a2734a6/zzz-thumb-360.png",
+      "alignment": [
+        0.0,
+        0.2
+      ]
+    },
+    "thumbnails": [
+      {
+        "source": "https://gist.githubusercontent.com/starmachine/eb2b5b23eaa9a7c1d8256a8a6da938c9/raw/335f50c353793d32f98166b803ae05127a2734a6/zzz-thumb-360.png",
+        "size": [
+          360,
+          640
+        ]
+      }
+    ],
+    "environment": {
+      "player": ">=1.0.0"
+    }
+  },
+  {
     "title": "Story App",
     "authors": [
       "@devefy"
