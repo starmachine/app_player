@@ -1,5 +1,34 @@
 [
   {
+    "title": "Credit Card",
+    "authors": [
+      "@caio002barbosa"
+    ],
+    "pages": [
+      "https://codepen.io/caio002barbosa/pen/RwWOoKN"
+    ],
+    "source": "https://gist.github.com/starmachine/b00f482e2e56c62356ffb92a6dfb833f",
+    "icon": {
+      "source": "https://gist.github.com/starmachine/b00f482e2e56c62356ffb92a6dfb833f/raw/f279b7f651acae32ca1764a0733d2981b8ead172/zzz-thumb-360.png",
+      "alignment": [
+        0.0,
+        0.0
+      ]
+    },
+    "thumbnails": [
+      {
+        "source": "https://gist.github.com/starmachine/b00f482e2e56c62356ffb92a6dfb833f/raw/f279b7f651acae32ca1764a0733d2981b8ead172/zzz-thumb-360.png",
+        "size": [
+          360,
+          640
+        ]
+      }
+    ],
+    "environment": {
+      "player": ">=1.0.0"
+    }
+  },
+  {
     "title": "Yeti",
     "authors": [
       "@mkiisoft"
