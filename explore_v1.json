@@ -29,35 +29,6 @@
     }
   },
   {
-    "title": "Yeti",
-    "authors": [
-      "@mkiisoft"
-    ],
-    "pages": [
-      "https://codepen.io/team/codepen/pen/LYpGWBx"
-    ],
-    "source": "https://gist.github.com/starmachine/a663bedc68b77bae326142870b1e3f7e",
-    "icon": {
-      "source": "https://gist.githubusercontent.com/starmachine/a663bedc68b77bae326142870b1e3f7e/raw/2e739c71858c46603ccc3abe616ee5b7b2fbb819/zzz-thumb-360.png",
-      "alignment": [
-        0.0,
-        0.0
-      ]
-    },
-    "thumbnails": [
-      {
-        "source": "https://gist.githubusercontent.com/starmachine/a663bedc68b77bae326142870b1e3f7e/raw/2e739c71858c46603ccc3abe616ee5b7b2fbb819/zzz-thumb-360.png",
-        "size": [
-          360,
-          640
-        ]
-      }
-    ],
-    "environment": {
-      "player": ">=1.0.0"
-    }
-  },
-  {
     "title": "Nike Shop",
     "authors": [
       "@joshuadeguzman"
@@ -84,6 +55,35 @@
     ],
     "environment": {
       "player": ">=1.0.0"
+    }
+  },
+  {
+    "title": "Yeti",
+    "authors": [
+      "@mkiisoft"
+    ],
+    "pages": [
+      "https://codepen.io/team/codepen/pen/LYpGWBx"
+    ],
+    "source": "https://gist.github.com/starmachine/a663bedc68b77bae326142870b1e3f7e",
+    "icon": {
+      "source": "https://gist.githubusercontent.com/starmachine/a663bedc68b77bae326142870b1e3f7e/raw/2e739c71858c46603ccc3abe616ee5b7b2fbb819/zzz-thumb-360.png",
+      "alignment": [
+        0.0,
+        0.0
+      ]
+    },
+    "thumbnails": [
+      {
+        "source": "https://gist.githubusercontent.com/starmachine/a663bedc68b77bae326142870b1e3f7e/raw/2e739c71858c46603ccc3abe616ee5b7b2fbb819/zzz-thumb-360.png",
+        "size": [
+          360,
+          640
+        ]
+      }
+    ],
+    "environment": {
+      "player": ">=1.1.0"
     }
   },
   {
