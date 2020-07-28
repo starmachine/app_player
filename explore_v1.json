@@ -1,6 +1,35 @@
 [
   {
-    "title": "User Profile UI",
+    "title": "Double Pendulum",
+    "authors": [
+      "@Abhilash-Chandran"
+    ],
+    "pages": [
+      "https://codepen.io/abhilas-csc/pen/qBOZKPj"
+    ],
+    "source": "https://gist.github.com/starmachine/de05919953645f75db0759d19bc7338d",
+    "icon": {
+      "source": "https://gist.github.com/starmachine/de05919953645f75db0759d19bc7338d/raw/3f8cffc60ca32952b988e149cb5d91e6717d1498/zzz-thumb-360.png",
+      "alignment": [
+        0.0,
+        1.0
+      ]
+    },
+    "thumbnails": [
+      {
+        "source": "https://gist.github.com/starmachine/de05919953645f75db0759d19bc7338d/raw/3f8cffc60ca32952b988e149cb5d91e6717d1498/zzz-thumb-360.png",
+        "size": [
+          360,
+          640
+        ]
+      }
+    ],
+    "environment": {
+      "player": ">=1.1.0"
+    }
+  },
+  {
+    "title": "User Profile",
     "authors": [
       "@joanncholland"
     ],
