@@ -1,5 +1,34 @@
 [
   {
+    "title": "Swirl Transition",
+    "authors": [
+      "AdReNaLiN_jUnKiE"
+    ],
+    "pages": [
+      "https://codepen.io/shrinaveenjack/pen/XWXEwGN"
+    ],
+    "source": "https://gist.github.com/starmachine/9a8dc31c895291bb2108847463eb6f54",
+    "icon": {
+      "source": "https://gist.github.com/starmachine/9a8dc31c895291bb2108847463eb6f54/raw/1ccd59e1f751aaef0158a9163eddb08554b3ec00/zzz-thumb-360.png",
+      "alignment": [
+        0.0,
+        0.0
+      ]
+    },
+    "thumbnails": [
+      {
+        "source": "https://gist.github.com/starmachine/9a8dc31c895291bb2108847463eb6f54/raw/1ccd59e1f751aaef0158a9163eddb08554b3ec00/zzz-thumb-360.png",
+        "size": [
+          360,
+          640
+        ]
+      }
+    ],
+    "environment": {
+      "player": ">=1.1.0"
+    }
+  },
+  {
     "title": "Double Pendulum",
     "authors": [
       "@Abhilash-Chandran"
