@@ -1,5 +1,34 @@
 [
   {
+    "title": "Long Shadows",
+    "authors": [
+      "@JonathanMonga"
+    ],
+    "pages": [
+      "https://codepen.io/jonathan_monga/pen/qBOQWgp"
+    ],
+    "source": "https://gist.github.com/starmachine/7d45ef160faf2bb5e367264412ffd767",
+    "icon": {
+      "source": "https://gist.github.com/starmachine/7d45ef160faf2bb5e367264412ffd767/raw/10827ee0fd144ca56a29d9269613b33014cd95c8/zzz-thumb-360.png",
+      "alignment": [
+        0.0,
+        0.0
+      ]
+    },
+    "thumbnails": [
+      {
+        "source": "https://gist.github.com/starmachine/7d45ef160faf2bb5e367264412ffd767/raw/10827ee0fd144ca56a29d9269613b33014cd95c8/zzz-thumb-360.png",
+        "size": [
+          360,
+          640
+        ]
+      }
+    ],
+    "environment": {
+      "player": ">=1.1.0"
+    }
+  },
+  {
     "title": "Swirl Transition",
     "authors": [
       "AdReNaLiN_jUnKiE"
