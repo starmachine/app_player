@@ -1,5 +1,34 @@
 [
   {
+    "title": "Music Player",
+    "authors": [
+      "@digitaljoni"
+    ],
+    "pages": [
+      "https://codepen.io/digitaljoni/pen/dyGgRMG"
+    ],
+    "source": "https://gist.github.com/starmachine/2fc85825cc16fa8bf1803dd55bcd9365",
+    "icon": {
+      "source": "https://gist.github.com/starmachine/2fc85825cc16fa8bf1803dd55bcd9365/raw/d58f700ed116b401550f65c8de68ab8a87068c82/zzz-thumb-360.png",
+      "alignment": [
+        0.0,
+        1.0
+      ]
+    },
+    "thumbnails": [
+      {
+        "source": "https://gist.github.com/starmachine/2fc85825cc16fa8bf1803dd55bcd9365/raw/d58f700ed116b401550f65c8de68ab8a87068c82/zzz-thumb-360.png",
+        "size": [
+          360,
+          640
+        ]
+      }
+    ],
+    "environment": {
+      "player": ">=1.1.0"
+    }
+  },
+  {
     "title": "Long Shadows",
     "authors": [
       "@JonathanMonga"
