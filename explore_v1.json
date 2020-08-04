@@ -1,5 +1,34 @@
 [
   {
+    "title": "Responsive List",
+    "authors": [
+      "@iamSahdeep"
+    ],
+    "pages": [
+      "https://codepen.io/iamSahdeep/pen/ExPdYJJ"
+    ],
+    "source": "https://gist.github.com/starmachine/16cd258a48da6b187f968bbbb8ad23d9",
+    "icon": {
+      "source": "https://gist.github.com/starmachine/16cd258a48da6b187f968bbbb8ad23d9/raw/784ec2f9cbe8fa8b15e08ad57d25051433137642/zzz-thumb-360.png",
+      "alignment": [
+        0.0,
+        -0.7
+      ]
+    },
+    "thumbnails": [
+      {
+        "source": "https://gist.github.com/starmachine/16cd258a48da6b187f968bbbb8ad23d9/raw/784ec2f9cbe8fa8b15e08ad57d25051433137642/zzz-thumb-360.png",
+        "size": [
+          360,
+          640
+        ]
+      }
+    ],
+    "environment": {
+      "player": ">=1.1.0"
+    }
+  },
+  {
     "title": "Music Player",
     "authors": [
       "@digitaljoni"
