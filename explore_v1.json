@@ -1,5 +1,34 @@
 [
   {
+    "title": "SpaceX",
+    "authors": [
+      "@orestesgaolin"
+    ],
+    "pages": [
+      "https://codepen.io/orestesgaolin/pen/MWadbdX"
+    ],
+    "source": "https://gist.github.com/starmachine/ddb46d1c5755ac323590bfe1f76445ea",
+    "icon": {
+      "source": "https://gist.github.com/starmachine/ddb46d1c5755ac323590bfe1f76445ea/raw/385baf364c37bfa2558beb857f7b79c553aa8d51/zzz-thumb-360.png",
+      "alignment": [
+        0.0,
+        0.0
+      ]
+    },
+    "thumbnails": [
+      {
+        "source": "https://gist.github.com/starmachine/ddb46d1c5755ac323590bfe1f76445ea/raw/385baf364c37bfa2558beb857f7b79c553aa8d51/zzz-thumb-360.png",
+        "size": [
+          360,
+          640
+        ]
+      }
+    ],
+    "environment": {
+      "player": ">=1.1.0"
+    }
+  },
+  {
     "title": "Responsive List",
     "authors": [
       "@iamSahdeep"
