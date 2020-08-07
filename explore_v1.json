@@ -1,5 +1,34 @@
 [
   {
+    "title": "Solar System",
+    "authors": [
+      "@jamescardona11"
+    ],
+    "pages": [
+      "https://codepen.io/jamescardona11/pen/gOPvVzx"
+    ],
+    "source": "https://gist.github.com/starmachine/f7bca6bfe16e38e36274094498bb25b0",
+    "icon": {
+      "source": "https://gist.github.com/starmachine/f7bca6bfe16e38e36274094498bb25b0/raw/071b081ccd462c10932e88f9308235e5daaad0c2/zzz-thumb-360.png",
+      "alignment": [
+        0.0,
+        0.9
+      ]
+    },
+    "thumbnails": [
+      {
+        "source": "https://gist.github.com/starmachine/f7bca6bfe16e38e36274094498bb25b0/raw/071b081ccd462c10932e88f9308235e5daaad0c2/zzz-thumb-360.png",
+        "size": [
+          360,
+          640
+        ]
+      }
+    ],
+    "environment": {
+      "player": ">=1.1.0"
+    }
+  },
+  {
     "title": "SpaceX",
     "authors": [
       "@orestesgaolin"
