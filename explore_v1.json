@@ -1,5 +1,34 @@
 [
   {
+    "title": "Nougat Update",
+    "authors": [
+      "@brianegan"
+    ],
+    "pages": [
+      "https://codepen.io/phillywiggins/pen/gOaPNPY"
+    ],
+    "source": "https://gist.githubusercontent.com/starmachine/9371443e1732da27caf1842400c6df0e/raw/49e5c1b88e55ee6b33abff5b1a31fde5387ae75f/codepen_gOaPNPY.dart",
+    "icon": {
+      "source": "https://gist.githubusercontent.com/starmachine/9371443e1732da27caf1842400c6df0e/raw/49e5c1b88e55ee6b33abff5b1a31fde5387ae75f/zzz-thumb-360.png",
+      "alignment": [
+        0.0,
+        0.0
+      ]
+    },
+    "thumbnails": [
+      {
+        "source": "https://gist.githubusercontent.com/starmachine/9371443e1732da27caf1842400c6df0e/raw/49e5c1b88e55ee6b33abff5b1a31fde5387ae75f/zzz-thumb-360.png",
+        "size": [
+          360,
+          640
+        ]
+      }
+    ],
+    "environment": {
+      "player": ">=1.1.0"
+    }
+  },
+  {
     "title": "Solar System",
     "authors": [
       "@jamescardona11"
