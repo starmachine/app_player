@@ -1,5 +1,34 @@
 [
   {
+    "title": "Tick-Tock",
+    "authors": [
+      "@himanshusharma89"
+    ],
+    "pages": [
+      "https://codepen.io/himanshusharma89/pen/jOWRmyX"
+    ],
+    "source": "https://gist.githubusercontent.com/starmachine/adaa5240112ce463e28db4f2653082d4/raw/9c6995b76a6a6ff3e81eb9fe95c68080138cbefc/codepen_jOWRmyX.dart",
+    "icon": {
+      "source": "https://gist.githubusercontent.com/starmachine/adaa5240112ce463e28db4f2653082d4/raw/9c6995b76a6a6ff3e81eb9fe95c68080138cbefc/zzz-thumb-360.png",
+      "alignment": [
+        0.0,
+        0.0
+      ]
+    },
+    "thumbnails": [
+      {
+        "source": "https://gist.githubusercontent.com/starmachine/adaa5240112ce463e28db4f2653082d4/raw/9c6995b76a6a6ff3e81eb9fe95c68080138cbefc/zzz-thumb-360.png",
+        "size": [
+          360,
+          640
+        ]
+      }
+    ],
+    "environment": {
+      "player": ">=1.3.0"
+    }
+  },
+  {
     "title": "Responsive Locations",
     "authors": [
       "@mivoligo"
