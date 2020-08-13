@@ -1,5 +1,34 @@
 [
   {
+    "title": "Planet Simulator",
+    "authors": [
+      "@deven98"
+    ],
+    "pages": [
+      "https://codepen.io/Deven-Joshi/pen/XWmyRYK"
+    ],
+    "source": "https://gist.githubusercontent.com/starmachine/2180de2c56a693bd18e89ded43b419db/raw/e589a73b9125b035f270bd328f0c9559e499a9e2/codepen_XWmyRYK.dart",
+    "icon": {
+      "source": "https://gist.githubusercontent.com/starmachine/2180de2c56a693bd18e89ded43b419db/raw/e589a73b9125b035f270bd328f0c9559e499a9e2/zzz-thumb-360.png",
+      "alignment": [
+        0.0,
+        0.0
+      ]
+    },
+    "thumbnails": [
+      {
+        "source": "https://gist.githubusercontent.com/starmachine/2180de2c56a693bd18e89ded43b419db/raw/e589a73b9125b035f270bd328f0c9559e499a9e2/zzz-thumb-360.png",
+        "size": [
+          360,
+          640
+        ]
+      }
+    ],
+    "environment": {
+      "player": ">=2.0.0"
+    }
+  },
+  {
     "title": "Settings Page",
     "authors": [
       "@kohrongying"
