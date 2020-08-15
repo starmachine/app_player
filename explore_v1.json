@@ -1,5 +1,34 @@
 [
   {
+    "title": "Rolling NavButton",
+    "authors": [
+      "@kaboc"
+    ],
+    "pages": [
+      "https://codepen.io/kaboc/pen/eYJbbop"
+    ],
+    "source": "https://gist.githubusercontent.com/starmachine/5453ea9c7fe0d0f560b079827eed23f3/raw/b728e768f41dc65b8e82109fc11f9370f702114c/codepen_eYJbbop.dart",
+    "icon": {
+      "source": "https://gist.githubusercontent.com/starmachine/5453ea9c7fe0d0f560b079827eed23f3/raw/b728e768f41dc65b8e82109fc11f9370f702114c/zzz-thumb-360.png",
+      "alignment": [
+        0.0,
+        1.0
+      ]
+    },
+    "thumbnails": [
+      {
+        "source": "https://gist.githubusercontent.com/starmachine/5453ea9c7fe0d0f560b079827eed23f3/raw/b728e768f41dc65b8e82109fc11f9370f702114c/zzz-thumb-360.png",
+        "size": [
+          360,
+          640
+        ]
+      }
+    ],
+    "environment": {
+      "player": ">=2.0.0"
+    }
+  },
+  {
     "title": "Planet Simulator",
     "authors": [
       "@deven98"
