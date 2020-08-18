@@ -1,5 +1,34 @@
 [
   {
+    "title": "Long Shadows 2",
+    "authors": [
+      "@JonathanMonga"
+    ],
+    "pages": [
+      "https://codepen.io/jonathan_monga/pen/wvKZbzG"
+    ],
+    "source": "https://gist.githubusercontent.com/starmachine/0d83480c969f162b9d1106a39aa89df4/raw/0810a8e92183c2fcdbaffb7235e365bfc7bc7079/codepen_wvKZbzG.dart",
+    "icon": {
+      "source": "https://gist.githubusercontent.com/starmachine/0d83480c969f162b9d1106a39aa89df4/raw/0810a8e92183c2fcdbaffb7235e365bfc7bc7079/zzz-thumb-360.png",
+      "alignment": [
+        0.0,
+        0.0
+      ]
+    },
+    "thumbnails": [
+      {
+        "source": "https://gist.githubusercontent.com/starmachine/0d83480c969f162b9d1106a39aa89df4/raw/0810a8e92183c2fcdbaffb7235e365bfc7bc7079/zzz-thumb-360.png",
+        "size": [
+          360,
+          640
+        ]
+      }
+    ],
+    "environment": {
+      "player": ">=2.0.0"
+    }
+  },
+  {
     "title": "Rolling NavButton",
     "authors": [
       "@kaboc"
